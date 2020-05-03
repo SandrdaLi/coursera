@@ -1,0 +1,62 @@
+July 31 13:39:39 mycomputername process[94615]: ERROR AssertionError 'False' is not 'True'
+July 31 14:34:36 mycomputername dhcpclient[37575]: ERROR 404 error not found
+July 31 14:44:34 mycomputername kernel[34400]: INFO Successfully connected
+July 31 15:18:00 mycomputername process[56145]: WARN Please send help I am stuck inside the internet
+July 31 15:21:55 mycomputername CRON[38897]: INFO Failed to start process[85253]
+July 31 15:23:54 mycomputername utility[20760]: ERROR lp0 on fire
+July 31 15:45:53 mycomputername jam_tag=psim[18544]: INFO Hello world
+July 31 15:51:37 mycomputername kernel[79314]: WARN Failed to start CPU thread[39016]
+July 31 16:02:05 mycomputername cacheclient[80348]: INFO Starting sync
+July 31 16:07:01 mycomputername process[11843]: ERROR Process failed
+July 31 16:20:37 mycomputername dhcpclient[36371]: ERROR Unable to download more RAM
+July 31 16:24:34 mycomputername updater[83956]: INFO Access permitted
+July 31 16:30:59 mycomputername updater[61327]: INFO Starting sync
+July 31 16:36:57 mycomputername system[27219]: ERROR Process failed
+July 31 16:39:10 mycomputername jam_tag=psim[76787]: INFO Checking process [16121]
+July 31 16:43:19 mycomputername utility[31859]: ERROR Process failed
+July 31 16:45:49 mycomputername process[29993]: WARN Failed to start network connection
+July 31 17:13:27 mycomputername system[77845]: WARN Failed to start CPU thread[39016]
+July 31 17:25:11 mycomputername jam_tag=psim[70693]: ERROR Syntax issue
+July 31 17:55:16 mycomputername jam_tag=psim[58396]: ERROR 404 error not found
+July 31 17:55:32 mycomputername system[56762]: WARN Low on memory
+July 31 18:03:28 mycomputername process[79703]: ERROR lp0 on fire
+July 31 18:04:46 mycomputername updater[79077]: ERROR Operation completed successfully
+July 31 18:51:04 mycomputername cacheclient[83250]: ERROR Sorting a list
+July 31 18:51:46 mycomputername cacheclient[57597]: INFO Access permitted
+July 31 18:56:23 mycomputername kernel[87834]: WARN Failed to start network connection
+July 31 19:04:43 mycomputername kernel[36465]: WARN Packet loss
+July 31 19:24:44 mycomputername cacheclient[47526]: INFO Googling the answer
+July 31 19:44:47 mycomputername system[50340]: ERROR lp0 on fire
+July 31 19:48:46 mycomputername CRON[88206]: ERROR Failed process [13966]
+July 31 19:51:07 mycomputername NetworkManager[38455]: INFO Access permitted
+July 31 19:55:34 mycomputername jam_tag=psim[21289]: INFO Plenty of disk space left
+July 31 19:56:47 mycomputername CRON[61924]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 20:02:26 mycomputername cacheclient[50070]: ERROR Encapsulating packets
+July 31 20:05:36 mycomputername updater[23489]: INFO Healthy resource usage
+July 31 20:21:06 mycomputername utility[67718]: INFO Defragmenting hard drive
+July 31 20:38:05 mycomputername kernel[30846]: ERROR AssertionError 'False' is not 'True'
+July 31 20:42:44 mycomputername CRON[95019]: INFO Access permitted
+July 31 20:48:06 mycomputername kernel[51099]: WARN PC Load Letter
+July 31 20:57:02 mycomputername CRON[23996]: INFO Googling the answer
+July 31 21:05:47 mycomputername utility[67348]: ERROR The cake is a lie!
+July 31 21:06:46 mycomputername kernel[80105]: ERROR lp0 on fire
+July 31 21:26:11 mycomputername process[18312]: WARN Computer needs to be turned off and on again
+July 31 21:28:55 mycomputername jam_tag=psim[89637]: INFO Packets sent successfully
+July 31 21:48:30 mycomputername kernel[33330]: ERROR Syntax issue
+July 31 22:05:31 mycomputername process[37921]: ERROR Process failed
+July 31 22:07:54 mycomputername cacheclient[12017]: ERROR Process failed
+July 31 22:14:37 mycomputername utility[78832]: INFO Healthy resource usage
+July 31 22:22:34 mycomputername updater[78750]: ERROR ID: 10t
+July 31 22:41:00 mycomputername jam_tag=psim[40956]: ERROR The cake is a lie!
+July 31 22:42:51 mycomputername NetworkManager[28895]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 23:15:22 mycomputername jam_tag=psim[75013]: ERROR Failed process [13966]
+July 31 23:17:05 mycomputername system[88316]: ERROR 418: I'm a teapot
+July 31 23:20:09 mycomputername system[42918]: ERROR Out of ink
+July 31 23:28:49 mycomputername utility[40452]: INFO Checking process [16121]
+July 31 23:29:25 mycomputername utility[22941]: WARN Failed to start CPU thread[39016]
+July 31 23:30:46 mycomputername process[99294]: WARN Computer needs to be turned off and on again
+July 31 23:35:49 mycomputername dhcpclient[10726]: INFO Googling the answer
+July 31 23:36:29 mycomputername updater[86053]: ERROR AssertionError 'False' is not 'True'
+July 31 23:40:05 mycomputername utility[88068]: INFO Generating Logs
+July 31 23:48:17 mycomputername CRON[28813]: WARN Please send help I am stuck inside the internet
+July 31 23:53:58 mycomputername CRON[59985]: INFO Successfully connected
