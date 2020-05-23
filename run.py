@@ -20,3 +20,4 @@ for item in dirs:
     data=json.dumps(temp)
     headers = {'Content-type': 'application/json'}
     response = requests.post("http://34.71.41.128/feedback/", data=data,headers=headers)
+    print("status_code "+ str(response.status_code))
